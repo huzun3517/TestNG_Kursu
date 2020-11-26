@@ -1,0 +1,13 @@
+<suite name="suite1"> <!-- Tüm testleri kapsayan bölüm-->
+    <test name="test1"> <!-- test1 i kapsayan bölüm-->
+        <groups>
+            <run>
+                <exclude name="SmokeTest"></exclude>  <!-- bunun haricindekiler çalışacak -->
+                <exclude name="Regression"></exclude>  <!-- bunun haricindekiler çalışacak -->
+            </run>
+        </groups>
+        <classes> <!-- çalışcak classların yazıldığı bölüm-->
+            <class name="Gun05._03_Groups"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,7 @@
+
+TODO    Ödev1- _04_Task1   deki testi ParameterDriver ile yapınız.
+        Senaryo
+        1-Siteyi açınız
+        2-Mac ve Samsung için Dataprovider ile yapınız.
+        3-Çıkan sonuçlarda Mac ve Samsung kelimelerinin geçtiğini doğrulayınız
+        NOT: bu testi firefox ve chrome browser ları ile paralel olarak çalıştırınız...

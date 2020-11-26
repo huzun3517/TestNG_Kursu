@@ -1,0 +1,24 @@
+<suite name="suite1">
+
+    <test name="test1">
+        <parameter name="enquiry" value="Merhabalar artık biz geliyoruz... 8 hafta sonra"></parameter>
+        <classes>
+            <class name="Deneme.Ders2.TestimC"></class>
+            <methods>
+                <include name="Test1"></include>
+                <include name="Test2"></include>
+            </methods>
+        </classes>
+    </test>
+
+    <test name="test2">
+        <parameter name="arananKelime" value="mac"></parameter>
+        <classes>
+            <class name="Deneme.Ders2.TestimC"></class>
+            <methods>
+                <include name="Test3"></include>
+            </methods>
+        </classes>
+    </test>
+
+</suite>

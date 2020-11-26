@@ -1,0 +1,16 @@
+
+<suite name="Suitim" parallel="tests">
+    <test name="Test Chrome">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="POM_ileYapildi.Odev1.odev1"></class>
+        </classes>
+    </test>
+
+    <test name="Test Firefox">
+        <parameter name="browser" value="firefox"></parameter>
+        <classes>
+            <class name="POM_ileYapildi.Odev1.odev1"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,12 @@
+<suite name="suite1">
+
+    <test name="test1">
+        <parameter name="arananKelime" value="samsung"></parameter>
+
+         <parameter name="browser" value="firefox"></parameter>
+        <classes>
+            <class name="Gun06._04_SearchFunctionality"></class>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,18 @@
+
+TODO        --TEST1--
+            1- Siteye gidiniz
+            2- contact Us tiklayiniz
+            3- Mesaj bölümüne bir metin giriniz.
+            4-Submit e tıklayınız
+            3- Mesaja yazılan yazının kontrolünü yapınız...
+
+TODO        --TEST2--
+            1- Siteye gidiniz
+            2- Specials tiklayiniz
+            3- Cikan urun sayisi ile indirimli urun sayisi ayni mi dogrulayiniz
+
+TODO         --TEST3--
+        1-Siteyi açınız
+        2-mac kelimelerini göndererek aratınız
+        3-Çıkan sonuçlarda mac kelimesinin geçtiğini doğrulayınız
+

@@ -1,0 +1,18 @@
+
+<suite name="Suite" parallel="tests">
+    <test name="Test_Chrome">
+        <parameter name="itemName" value="ipod"></parameter>
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="POM_ileYapildi.Ders5.pom"></class>
+        </classes>
+    </test>
+
+    <test name="Test_Firefox">
+        <parameter name="itemName" value="ipod"></parameter>
+        <parameter name="browser" value="firefox"></parameter>
+        <classes>
+            <class name="POM_ileYapildi.Ders5.pom"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,11 @@
+
+TODO
+    Senaryo ;
+   1- Siteye gidiniz..
+     -TEST1-
+   2- "ipod" ürününü aratınız.
+   3- çıkan elamnlardan random bir elemanı Add Wish butonuna tıklayınız.
+   4- Daha sonra WishList e tıklatınız
+   5- Burada çıkan ürünle tıklanan ürünün isminin aynı olup olmadığını doğrulayınız.
+    -TEST2-
+   1- WishList i boşaltınız.

@@ -1,0 +1,10 @@
+<suite name="suite1">
+
+    <test name="test1">
+        <parameter name="arananKelime" value="mac"></parameter>
+        <classes>
+            <class name="Gun06._03_SearchFunctionality"></class>
+        </classes>
+    </test>
+
+</suite>

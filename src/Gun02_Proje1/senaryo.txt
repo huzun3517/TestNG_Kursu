@@ -1,0 +1,36 @@
+
+* "https://demo.sellacious.com/squick/" sayfasýna gidin
+
+* Arama simgesine týklayýn ve "Canon" u arayýn
+
+* "Canon" kamera için "Add to cart" a týklayýn
+
+* "Ödeme Yap" ý týklayýn
+
+* Email adresini girin ve ""Proceed" e týklayýn.
+
+* "Checkout as Guest"  te týklayýn.
+
+* Formu doldurun.(rastgele bir ülke seçilmeli) - (Eyalet ve ilçe için hiçbir þey seçmeyin)
+
+* Save butonuna týklayýn
+
+* Adresin altýndaki 'Bill Here' ve 'deliver here' butonuna týklayýn ve devam etmek için oka týklayýn
+
+* Devam etmek için ok butonuna týklayýn
+
+* "Proceed to payment" butonuna týklayýn
+
+* "Cheque" ve "pay now" butonuna týklayýn. (burada bir bug var)
+
+* "Adress Adress" kutucugunu kapatmak için X 'e basýn. (thread sleep)
+
+* "Cheque" e týklayýn ve "Pay Now" butonuna tekrar basýn.
+
+* "Payment via Cheque approved" mesajýnýn görüntülendiðini dogrulayýn
+
+* Success" mesajýnýn görüntülendiðini doðrulayýn
+
+* "View Invoice" butonuna týklayýn ve doðru ürünü siparis ettiginizi onaylayýn.
+
+* "View Receipt" e týklayýn ve e postanýzýn makbuzda dogru yazýldýgýný kontol edin, onaylayýn.

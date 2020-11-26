@@ -1,0 +1,27 @@
+<suite name="suite1" parallel="tests" thread-count="2">
+
+    <test name="test2">
+        <parameter name="browser" value="firefox"></parameter>
+        <parameter name="arananKelime" value="mac"></parameter>
+        <classes>
+            <class name="POM_ileYapildi.Ders2.TestimD"></class>
+            <methods>
+                <include name="Test2"></include>
+                <include name="Test3"></include>
+            </methods>
+        </classes>
+    </test>
+
+    <test name="test3">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name="arananKelime" value="samsung"></parameter>
+        <classes>
+            <class name="POM_ileYapildi.Ders2.TestimD"></class>
+            <methods>
+                <include name="Test2"></include>
+                <include name="Test3"></include>
+            </methods>
+        </classes>
+    </test>
+
+</suite>

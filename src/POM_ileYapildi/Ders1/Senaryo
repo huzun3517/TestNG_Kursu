@@ -1,0 +1,39 @@
+*******************************************************************************************************************
+                                                TestimA
+TODO     --TEST1--
+         1- http://opencart.abstracta.us/index.php?route=account/login  sitesini açınız.
+         2- asd@gmail.com  ve 123qweasd   bilgileri ile login olan test metodunu yazınız.
+         3- Login olup olmadığınızı assert ile kontrol ediniz.
+         4- bir utils paketi açınız ve buraya beforeClass ve afterClass metdolarını yazarak
+            genel kullanım için MetodWebDriver isimli test klasını tanımlayınız.
+
+TODO      --TEST2--
+         1- Siteyi açınız
+         2- Top Menudeki menu elemanlarının olduğunu doğrulayınız.
+
+
+TODO     --TEST3 - TEST4 - TEST5--
+         1- Siteyi açınız.
+         2- Newsletter  Subscribe ve UnSubscribe işlemlerini ayrı ayı testlerde yapınız.
+         3- Newsletter  üyelik işlemini, üye ise , üyelikten çıkma, değilse ekleme şeklinde yapınız
+
+
+TODO       --TEST6--
+          1- Siteyi açınız.
+          2- Edit Account a tıklatınız.
+          3- Yeni isim ve soyisim göndererek Continue yapınız.
+          4- İşlem sonucunu kontrol ediniz.
+          5- Bu işlemi 2 kez çalıştırarak eski haline getiriniz.
+
+*******************************************************************************************************************
+                                                    TestimB
+
+TODO
+            -- TEST1 - TEST2- TEST2 --
+           1- Siteyi açınız.
+           2- Adress Ekleyiniz.
+           3- En son eklenen adresi edit yaparak ad ve soyadı değiştirip kaydediniz.
+           4- En son eklenen adresi siliniz.
+
+
+

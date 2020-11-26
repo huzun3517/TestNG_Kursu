@@ -1,0 +1,19 @@
+<suite name="Suit" parallel="tests" thread-count="2">
+
+    <test name="Test1">
+        <parameter name="username" value="suzun3545@gmail.com"></parameter>
+        <parameter name="password" value="08011985"></parameter>
+        <classes>
+            <class name="Gun11_Proje3.POM_Task1"></class>
+        </classes>
+    </test>
+
+    <test name="Test2">
+        <parameter name="username" value="suzun3545@gmail.com"></parameter>
+        <parameter name="password" value="08011985"></parameter>
+        <classes>
+            <class name="Gun11_Proje3.POM_Task2"></class>
+        </classes>
+    </test>
+
+</suite>
